@@ -1,0 +1,527 @@
+TCard Application
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Info.plist /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Card\ Application-Info.plist
+cProcessPCH /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch.pch Card\ Application/Card\ Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/main.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameAppDelegate.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameViewController.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Deck.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCard.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCard.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCardDeck.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCardDeck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardMatchingGame.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/CardMatchingGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Card\ Application normal i386
+cGenerateDSYMFile /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app.dSYM /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Card\ Application
+cCopyStringsFile /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/en.lproj/InfoPlist.strings Card\ Application/en.lproj/InfoPlist.strings
+cCpResource Card\ Application/Default.png build/Debug-iphonesimulator/Card\ Application.app/Default.png
+cCpResource Card\ Application/Default@2x.png build/Debug-iphonesimulator/Card\ Application.app/Default@2x.png
+cCpResource Card\ Application/Default-568h@2x.png build/Debug-iphonesimulator/Card\ Application.app/Default-568h@2x.png
+cCompileStoryboard /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/en.lproj/MainStoryboard.storyboard
+cCpResource Card\ Application/Images/hoyleback.jpg build/Debug-iphonesimulator/Card\ Application.app/hoyleback.jpg
+cCpResource Card\ Application/Images/Paper-bkgrnnew\ a.jpg build/Debug-iphonesimulator/Card\ Application.app/Paper-bkgrnnew\ a.jpg
+cTouch /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000528189870000000000000176
+t1384221063
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005243377600000000000003B5
+t1380136822
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052689E9600000000000001A0
+t1382588054
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052689E980000000000445870
+t1382588056
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052689E9A000000000088C680
+t1382588058
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052689E9F0000000001DB9910
+t1382588063
+s31168784
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Card Application-Info.plist
+c0000000051F007AD00000000000004E5
+t1374685101
+s1253
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Card Application-Prefix.pch
+c0000000051E5AA87000000000000014F
+t1374005895
+s335
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameAppDelegate.m
+c0000000051E5AA870000000000000803
+t1374005895
+s2051
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameViewController.m
+c00000000521A5C920000000000000D43
+t1377459346
+s3395
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Default-568h@2x.png
+c0000000051B1755C00000000000048A2
+t1370584412
+s18594
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Default.png
+c0000000051B1755C000000000000198C
+t1370584412
+s6540
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Default@2x.png
+c0000000051B1755C0000000000003EEB
+t1370584412
+s16107
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Images/Paper-bkgrnnew a.jpg
+c0000000051F146D30000000000023F37
+t1374766803
+s147255
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Images/hoyleback.jpg
+c0000000051F144A4000000000000F758
+t1374766244
+s63320
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.m
+c0000000051F04E130000000000000194
+t1374703123
+s404
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/CardMatchingGame.m
+c0000000051F7C0F90000000000000A5A
+t1375191289
+s2650
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.m
+c0000000051EFE664000000000000033C
+t1374676580
+s828
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCard.m
+c0000000051F6C5820000000000000544
+t1375126914
+s1348
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCardDeck.m
+c0000000051EFF09900000000000002C3
+t1374679193
+s707
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/en.lproj/InfoPlist.strings
+c0000000051E5AA87000000000000002D
+t1374005895
+s45
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/en.lproj/MainStoryboard.storyboard
+c00000000522E53AD00000000000077AD
+t1378767789
+s30637
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/main.m
+c0000000051F006CB0000000000000174
+t1374684875
+s372
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Card Application.LinkFileList
+c0000000052433AA5000000000000053F
+t1380137637
+s1343
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Card.o
+t1385081162
+s10532
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardGameAppDelegate.o
+t1385081162
+s65256
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardGameViewController.o
+t1385081162
+s67232
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardMatchingGame.o
+t1385081162
+s18096
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Deck.o
+t1385081162
+s9584
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/PlayingCard.o
+t1385081162
+s15396
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/PlayingCardDeck.o
+t1385081162
+s8232
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/main.o
+t1385081162
+s3352
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app
+t1385081162
+s374
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app.dSYM
+t1380137638
+s102
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Card Application
+t1385081162
+s53912
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Default-568h@2x.png
+t1380137638
+s18594
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Default.png
+t1380137638
+s6540
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Default@2x.png
+t1380137638
+s16107
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Info.plist
+t1380137637
+s876
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Paper-bkgrnnew a.jpg
+t1380137638
+s147255
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/PkgInfo
+t1380137637
+s8
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/en.lproj/InfoPlist.strings
+t1380137638
+s42
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/en.lproj/MainStoryboard.storyboardc
+t1380137641
+s170
+
+N/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/hoyleback.jpg
+t1380137638
+s63320
+
+N/var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card Application-Prefix.pch.pch
+t1385081162
+s5345440
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameAppDelegate.m
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameViewController.m
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Card.m
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/CardMatchingGame.m
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Deck.m
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCard.m
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCardDeck.m
+r0
+
+CBuild AST from /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies11c366c9e03eb841^5a8377c9e03eb841^---0#1#1#--18"Check dependencies36"588B10AB-A4B2-4C8B-93E4-80BBD392B5E4-
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.150286
+e406773962.265431
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Card.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.m210"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card.o Card\ Application/Model/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler65c326cae03eb841^150344cae03eb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/Model/Card.m0000000000000000^3887"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card.o Card\ Application/Model/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Card.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card.o36"88AA5AC2-9BE9-4E2E-8F2B-2EEFB9FE2F7A-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameAppDelegate.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.148943
+e406773962.268589
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardGameAppDelegate.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameAppDelegate.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameAppDelegate.m234"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameAppDelegate.o Card\ Application/CardGameAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera74026cae03eb841^50c244cae03eb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/CardGameAppDelegate.m0000000000000000^3965"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameAppDelegate.o Card\ Application/CardGameAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameAppDelegate.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameAppDelegate.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameAppDelegate.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameAppDelegate.o36"DADB76A6-2BF1-4D82-9075-2D21E1F22763-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameViewController.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.149292
+e406773962.288310
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardGameViewController.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameViewController.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameViewController.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCardDeck.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/CardMatchingGame.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameViewController.m240"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameViewController.o Card\ Application/CardGameViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler585626cae03eb841^03cf49cae03eb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/CardGameViewController.m0000000000000000^3983"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameViewController.o Card\ Application/CardGameViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameViewController.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameViewController.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/CardGameViewController.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardGameViewController.o36"42BB2E8E-719F-4344-A050-9B41093101B6-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardMatchingGame.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/CardMatchingGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.288578
+e406773962.315400
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardMatchingGame.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/CardMatchingGame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/CardMatchingGame.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/CardMatchingGame.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/CardMatchingGame.m234"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardMatchingGame.o Card\ Application/Model/CardMatchingGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler15014acae03eb841^0abf50cae03eb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/Model/CardMatchingGame.m0000000000000000^3959"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardMatchingGame.o Card\ Application/Model/CardMatchingGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardMatchingGame.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardMatchingGame.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/CardMatchingGame.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/CardMatchingGame.o36"ADE25FB2-A775-443A-A174-B28699D53C76-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Deck.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.265702
+e406773962.298085
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Deck.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.m210"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Deck.o Card\ Application/Model/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a2944cae03eb841^8a584ccae03eb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/Model/Deck.m0000000000000000^3887"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Deck.o Card\ Application/Model/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Deck.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Deck.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/Deck.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Deck.o36"0EF075F3-2F95-47BD-BB66-CE9078BEE92A-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCard.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCard.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.266684
+e406773962.299056
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/PlayingCard.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCard.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCard.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCard.m224"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCard.o Card\ Application/Model/PlayingCard.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler295f44cae03eb841^218f4ccae03eb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/Model/PlayingCard.m0000000000000000^3929"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCard.o Card\ Application/Model/PlayingCard.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCard.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCard.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCard.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCard.o36"FE472423-255B-4A14-8D17-AF0FC5BDB3F2-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCardDeck.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCardDeck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.269147
+e406773962.296234
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/PlayingCardDeck.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCardDeck.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCardDeck.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCardDeck.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Deck.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/Card.h
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCard.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Model/PlayingCardDeck.m232"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCardDeck.o Card\ Application/Model/PlayingCardDeck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileref0245cae03eb841^7bd84bcae03eb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/Model/PlayingCardDeck.m0000000000000000^3953"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCardDeck.o Card\ Application/Model/PlayingCardDeck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCardDeck.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCardDeck.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Model/PlayingCardDeck.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/PlayingCardDeck.o36"4A4E3020-2263-4229-ADB9-1EAB81F79EE4-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/main.o /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773962.148643
+e406773962.265389
+r1
+xCompileC
+xbuild/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/main.o
+x/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/main.m
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/CardGameAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/main.m204"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/main.o Card\ Application/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraf2726cae03eb841^aaf443cae03eb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/main.m0000000000000000^3875"CompileC build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/main.o Card\ Application/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -include /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch -MMD -MT dependencies -MF /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/main.dia -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/main.m -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/main.o36"B5C07402-72D0-4337-9256-18475155FE62-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CCompileStoryboard /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/en.lproj/MainStoryboard.storyboard
+r0
+
+CCopyStringsFile /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/en.lproj/InfoPlist.strings Card\ Application/en.lproj/InfoPlist.strings
+r0
+
+CCpResource Card\ Application/Default-568h@2x.png build/Debug-iphonesimulator/Card\ Application.app/Default-568h@2x.png
+r0
+
+CCpResource Card\ Application/Default.png build/Debug-iphonesimulator/Card\ Application.app/Default.png
+r0
+
+CCpResource Card\ Application/Default@2x.png build/Debug-iphonesimulator/Card\ Application.app/Default@2x.png
+r0
+
+CCpResource Card\ Application/Images/Paper-bkgrnnew\ a.jpg build/Debug-iphonesimulator/Card\ Application.app/Paper-bkgrnnew\ a.jpg
+r0
+
+CCpResource Card\ Application/Images/hoyleback.jpg build/Debug-iphonesimulator/Card\ Application.app/hoyleback.jpg
+r0
+
+CGenerateDSYMFile /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app.dSYM /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Card\ Application
+s406773962.545575
+e406773962.579523
+r1
+xGenerateDSYMFile
+x/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app.dSYM
+x/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Card Application
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generate /Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app.dSYM139"GenerateDSYMFile build/Debug-iphonesimulator/Card\ Application.app.dSYM build/Debug-iphonesimulator/Card\ Application.app/Card\ Application62bf8bcae03eb841^925995cae03eb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/build/Debug-iphonesimulator/Card%20Application.app.dSYM/0000000000000000^749"GenerateDSYMFile build/Debug-iphonesimulator/Card\ Application.app.dSYM build/Debug-iphonesimulator/Card\ Application.app/Card\ Application    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Card\ Application -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app.dSYM36"17A481EE-D592-4D41-853E-AE1B3C3FEC4A-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CLd /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Card\ Application normal i386
+s406773962.316328
+e406773962.544327
+r1
+xLd
+x/Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Card Application
+xnormal
+xi386
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Card Application.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/main.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardGameAppDelegate.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardGameViewController.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Card.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/Deck.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/PlayingCard.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/PlayingCardDeck.o
+d/Users/Jason/Documents/Developer/CardGame/Card Application/build/Card Application.build/Debug-iphonesimulator/Card Application.build/Objects-normal/i386/CardMatchingGame.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/Jason/Documents/Developer/CardGame/Card Application/build/Debug-iphonesimulator/Card Application.app/Card Application82"Ld build/Debug-iphonesimulator/Card\ Application.app/Card\ Application normal i386bb0a51cae03eb841^145d8bcae03eb841^---0#0#1#--1552"Ld build/Debug-iphonesimulator/Card\ Application.app/Card\ Application normal i386    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator -filelist /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card\ Application.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Objects-normal/i386/Card\ Application_dependency_info.dat -o /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Card\ Application36"6CAD41AA-13B9-4DB2-B4B8-F53697928BCF-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CProcessInfoPlistFile /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app/Info.plist /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Card\ Application-Info.plist
+r0
+
+CProcessPCH /Users/Jason/Library/Developer/Xcode/DerivedData/Card_Application-cehrnwsmrljjfbcbsozhalfkuaho/Index/PrecompiledHeaders/Card\ Application-Prefix-cchjmqvsejvrnmbpdxtyxfwyztba_ast/Card\ Application-Prefix.pch.pch Card\ Application/Card\ Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch.pch Card\ Application/Card\ Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406773961.467709
+e406773962.147768
+r1
+xProcessPCH
+x/var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card Application-Prefix.pch.pch
+xCard Application/Card Application-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jason/Documents/Developer/CardGame/Card Application/Card Application/Card Application-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile Card Application/Card Application-Prefix.pch330"ProcessPCH /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch.pch Card\ Application/Card\ Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc8ce77c9e03eb841^f5d525cae03eb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Jason/Documents/Developer/CardGame/Card%20Application/Card%20Application/Card%20Application-Prefix.pch0000000000000000^3942"ProcessPCH /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch.pch Card\ Application/Card\ Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Jason/Documents/Developer/CardGame/Card Application"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-generated-files.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-own-target-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-all-target-headers.hmap -iquote /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/Card\ Application-project-headers.hmap -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources/i386 -I/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Card\ Application.build/Debug-iphonesimulator/Card\ Application.build/DerivedSources -F/Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch.d -c /Users/Jason/Documents/Developer/CardGame/Card\ Application/Card\ Application/Card\ Application-Prefix.pch -o /var/folders/h7/x4tm4bdj12s4j19kjvqwhsxr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Card\ Application-Prefix-hbonxuwkbextmmdtykbhuirohzom/Card\ Application-Prefix.pch.pch36"DF5EE8FF-AA13-4534-AA14-3B28F5F25197-
+bF4C93395-C537-403C-9E08-7C860191DFC4
+
+CTouch /Users/Jason/Documents/Developer/CardGame/Card\ Application/build/Debug-iphonesimulator/Card\ Application.app
+r0
+
